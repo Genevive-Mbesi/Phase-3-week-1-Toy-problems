@@ -1,5 +1,5 @@
 # Coding Challenges
- In this repository, you will find solutions to three different coding challenges.
+ In this repository, you will find solutions to three different coding challenges.Each problem focuses on different aspects of Python programming and provides sample solutions along with usage instructions.
 
 # Prerequisites
 Use Python to write down the solutions.
@@ -33,3 +33,10 @@ In the word "zodiacs," the vowels are "o" and "i". After removing them, we get "
 
 For the word "strength," the consonant substrings are "str" and "ngth," with values "str" = 19 + 20 + 18 = 57 and "ngth" = 14 + 7 + 20 + 8 = 49. The highest value is 57.
 
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+# Author
+
+This project was created by Genevive Mbesi Opondo.
